@@ -9,7 +9,10 @@
 
 ## General Info
 
-I started this portfolio in October of 2021. The design is going for a delicate and bold theme with soft colors alongside dramatic graphics and lines. The code is as simple as a website can get with just HTML, CSS, and Javascript files. The entire project was a nice refresher of the little coding skills I had at the time. The design is responsive and mobile first. .
+Launched in October 2021, this portfolio was built as a deliberate exercise in restraint—pure HTML, CSS, and JavaScript, no frameworks, no dependencies. The design merges delicate soft tones with bold, dramatic graphics and clean geometric lines, all crafted mobile-first with full responsiveness in mind.
+
+At the time, it served as both a creative outlet and a hands-on refresher of my foundational skills. Looking back, it marks the starting point of my development journey—simple by choice, not by limitation.
+
 The deployed website is [here]( https://portfolio-three-sandy-75.vercel.app/) . 
 
 ## Installation
